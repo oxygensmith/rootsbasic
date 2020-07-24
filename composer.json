@@ -3,12 +3,12 @@
   "type": "wordpress-theme",
   "license": "MIT",
   "description": "My version of Roots/Sage by Ben Word (https://roots.io/sage/), the WordPress starter theme with a modern development workflow",
-  "homepage": "https://roots.io/sage/",
+  "homepage": "https://github.com/oxygensmith/rootsbasic",
   "authors": [
     {
       "name": "Rob Butz",
       "email": "rob@oxygensmith.ca",
-      "homepage": "https://github.com/retlehs"
+      "homepage": "https://github.com/oxygensmith/rootsbasic"
     }
   ],
   "keywords": [
